@@ -1,2 +1,2 @@
 # 02_SequenceBasedSModel
- Sequence-based model of gene evolution
+ Stochastic sequence based allele evolution model
